@@ -19,6 +19,12 @@ body {
     text-align: center;
     top: 50%;
 }
+.character-container{
+    position:fixed;
+    left:100px;
+    bottom:10px;
+
+}
 /*
 #pane-1 {
     background-color: green;
