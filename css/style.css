@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.panelCon{
+    position: fixed;
+    bottom: 0;
+    left:0;
+    width: 100%;
+}
+.panel {
+    width: 100%;
+}
+.panel h1 {
+    width: 100px;
+    position: relative;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    top: 50%;
+}
+/*
+#pane-1 {
+    background-color: green;
+}
+#pane-2 {
+    background-color: red;
+}
+#pane-3 {
+    background-color: white;
+}
+#pane-4 {
+    background-color: pink;
+}
+#pane-5 {
+    background-color: yellow;
+}*/
