@@ -21,23 +21,27 @@ body {
 }
 .character-container{
     position:fixed;
-    left:100px;
+    width:100%;
     bottom:10px;
 
 }
-/*
+#character{
+    width:100%;
+    text-align:center;
+}
+
 #pane-1 {
-    background-color: green;
+    background-color: yellow;
 }
 #pane-2 {
-    background-color: red;
+    background-color: #FFAB43;
 }
 #pane-3 {
-    background-color: white;
-}
-#pane-4 {
     background-color: pink;
 }
+#pane-4 {
+    background-color: #ffffff;
+}
 #pane-5 {
-    background-color: yellow;
-}*/
+    background-color: #A8F514;
+}
